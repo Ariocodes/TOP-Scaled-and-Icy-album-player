@@ -1,7 +1,8 @@
 """
 Author: github.com/Ariocodes
-This is a 2D game made using the pygame library.
+A music player for the Scaled and Icy album by Twenty One Pilots.
 """
+
 import tkinter as tk
 import pygame
 import os
