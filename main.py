@@ -1,8 +1,10 @@
 """
 Author: github.com/Ariocodes
-This is a mini code showing how Pseudorandom generates random numbers.
+This is a 2D game made using the pygame library.
 """
-import tkinter as tk, pygame, os
+import tkinter as tk
+import pygame
+import os
 from tkinter import *
 pygame.init()
 pygame.mixer.init()
