@@ -1,3 +1,7 @@
+"""
+Author: github.com/Ariocodes
+This is a mini code showing how Pseudorandom generates random numbers.
+"""
 import tkinter as tk, pygame, os
 from tkinter import *
 pygame.init()
